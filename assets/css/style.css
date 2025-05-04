@@ -271,19 +271,19 @@ li .menu-drop a:hover {
     background-size: contain;
 }
 .banner .sliders .slide1 {
-    background-image: url(/media/ltd2024-hp-banner.jpg);
+    background-image: url(../media/ltd2024-hp-banner.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .banner .sliders .slide2 {
-    background-image: url(/media/nils-banner.jpg);
+    background-image: url(../media/nils-banner.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .banner .sliders .slide3 {
-    background-image: url(/media/ltd2023.jpg);
+    background-image: url(../media/ltd2023.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
